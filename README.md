@@ -62,7 +62,7 @@ The dataset contains:
 ├── water_potability_complete.ipynb   # Complete implementation
 ├── water_potability.csv              # Dataset
 ├── README.md
-└── paper/                            # (optional) Research paper
+                       
 ```
 
 ---
